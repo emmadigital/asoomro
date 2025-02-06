@@ -11,4 +11,3 @@ Outside work, I am an avid traveller and an adventure enthusiast. I have travell
 Last but not least, here are some of my pictures :)
 
 
-<img title="photo" alt="Photo Collage" src="../../images/PhotoCollage.png">
