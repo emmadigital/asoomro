@@ -10,13 +10,13 @@
   },
   "title": "I'm an IT Project Manager",
   "subtitle": {
-    "prefix": "leading high-performance teams to sustain",
+    "prefix": "leading high-performance teams to sustain ",
     "highlight": "business goals",
     "suffix": "."
   },
   "description": "You can reach me at",
   "socialProfiles": {
-    "from": ["LinkedIn", "Medium", "Github", "Mail"],
-    "showIcons": false
+    "from": ["LinkedIn", "Github", "Mail"],
+    "showIcons": true
   }
 }
