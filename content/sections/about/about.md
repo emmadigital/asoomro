@@ -9,3 +9,7 @@ I'm  Amresha Soomro. An accomplished Senior IT Project Manager offering 10 years
 Outside work, I am an avid traveller and an adventure enthusiast. I have travelled 5 cities in Turkey and 5 Countries of European Union. From what I have experienced, I believe in being accepting and open to new experiences, as each carries a uniqueness that one can truly embrace.
 
 Last but not least, here are some of my pictures!
+
+<img src="[def]" alt="My cool pictures"/>
+
+[def]: ./../images/PhotoCollage.png
