@@ -3,8 +3,8 @@
   "email": "amreshasoomro@gmail.com",
   "description": "If you have any projects to discuss, you can reach out to me.",
   "image": {
-    "src": "../../images/favicon.PNG",
-    "alt": "Gatsby Logo"
+    "src": "../../content/images/favicon.png",
+    "alt": "Amresha Soomro"
   },
   "socialProfiles": {
     "from": ["LinkedIn", "Medium", "Github", "Mail"],
