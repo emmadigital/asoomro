@@ -2,12 +2,12 @@
   "siteMetadata": {
     "language": "en",
     "siteUrl": "https://gatsby-starter-portfolio-minimal-theme.netlify.app/",
-    "title": "Gatsby Starter for Portfolio Minimal",
+    "title": "I'm an IT Project Manager leading high-performance teams to sustain business goals.",
     "titleTemplate": "%s · Portfolio Minimal",
-    "description": "A Gatsby Starter Project to easily get started with Portfolio Minimal theme.",
-    "author": "Konstantin Münster",
-    "avatar": "../content/images/gatsby.png",
-    "bio": "This biography will be used in the footer area of an article and can contain some more details about the author.",
+    "description": "An accomplished Senior IT Project Manager offering 10 years of experience in Software Project Management. Leading high-performance teams to sustain business goals.",
+    "author": "Amresha Soomro",
+    "avatar": "../content/images/asoomro2.png",
+    "bio": "An accomplished Senior IT Project Manager offering 10 years of experience in Software Project Management.",
     "social": {
       "behance": "https://behance.com",
       "github": "https://github.com/emmadigital",
@@ -16,7 +16,7 @@
     }
   },
   "siteConfiguration": {
-    "logo": { "text": "Portfolio" },
+    "logo": { "text": "Amresha Profile" },
     "navigation": {
       "header": [
         { "label": "About", "url": "/#about" },
