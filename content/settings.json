@@ -4,10 +4,10 @@
     "siteUrl": "https://gatsby-starter-portfolio-minimal-theme.netlify.app/",
     "title": "I'm an IT Project Manager leading high-performance teams to sustain business goals.",
     "titleTemplate": "%s · Portfolio Minimal",
-    "description": "An accomplished Senior IT Project Manager offering 10 years of experience in Software Project Management. Leading high-performance teams to sustain business goals.",
+    "description": "An accomplished Senior IT Project Manager offering 10 years of experience in Software Project Management.",
     "author": "Amresha Soomro",
-    "avatar": "../content/images/asoomro2.png",
-    "bio": "An accomplished Senior IT Project Manager offering 10 years of experience in Software Project Management.",
+    "avatar": "../content/images/asoomro2.PNG",
+    "bio": "An accomplished Senior IT Project Manager offering 10 years of experience in Software Project Management. Leading high-performance teams to sustain business goals.",
     "social": {
       "behance": "https://behance.com",
       "github": "https://github.com/emmadigital",
