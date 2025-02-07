@@ -10,6 +10,4 @@ Outside work, I am an avid traveller and an adventure enthusiast. I have travell
 
 Last but not least, here are some of my pictures!
 
-<img src="[def]" alt="My cool pictures" width="60%"/>
-
-[def]: ../../images/PhotoCollage.png
+<img src="../../images/PhotoCollage.png" alt="My cool pictures"/>
