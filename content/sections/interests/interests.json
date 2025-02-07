@@ -8,51 +8,51 @@
       }
     },
     {
-      "label": "Adaptibilty and Time Management",
+      "label": "Time Management",
       "image": {
-        "src": "../../images/notebook.png",
+        "src": "../../images/clock.png",
         "alt": ""
       }
     },
     {
-      "label": "Prioritization and Problem-solving",
+      "label": "Problem-solving",
       "image": {
-        "src": "../../images/nail-polish.png",
-        "alt": ""
-      }
-    },
-    {
-      "label": "Data Analytics and Visualization Techniques",
-      "image": {
-        "src": "../../images/gem-stone.png",
-        "alt": ""
-      }
-    },
-    {
-      "label": "Active Listening and Communication",
-      "image": {
-        "src": "../../images/mobile-phone.png",
-        "alt": ""
-      }
-    },
-    {
-      "label": "Leadership and Team Building",
-      "image": {
-        "src": "../../images/mobile-phone.png",
-        "alt": ""
-      }
-    },
-    {
-      "label": "Modern Tech-Stack",
-      "image": {
-        "src": "../../images/high-voltage.png",
+        "src": "../../images/idea.png",
         "alt": ""
       }
     },
     {
       "label": "Data Analytics Tools",
       "image": {
-        "src": "../../images/high-voltage.png",
+        "src": "../../images/analysis.png",
+        "alt": ""
+      }
+    },
+    {
+      "label": "Communication",
+      "image": {
+        "src": "../../images/networking.png",
+        "alt": ""
+      }
+    },
+    {
+      "label": "Leadership",
+      "image": {
+        "src": "../../images/persuasion.png",
+        "alt": ""
+      }
+    },
+    {
+      "label": "Modern Tech-Stack",
+      "image": {
+        "src": "../../images/technology.png",
+        "alt": ""
+      }
+    },
+    {
+      "label": "Team Building",
+      "image": {
+        "src": "../../images/team-work.png",
         "alt": ""
       }
     }
