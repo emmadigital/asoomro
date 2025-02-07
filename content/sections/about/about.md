@@ -12,4 +12,4 @@ Last but not least, here are some of my pictures!
 
 <img src="[def]" alt="My cool pictures"/>
 
-[def]: ./../images/PhotoCollage.png
+[def]: ./../images/asoomro2.png
