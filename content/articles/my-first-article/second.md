@@ -1,6 +1,6 @@
 ---
 title: "Essential and Effective Skills in Remote Enviornment"
-description: "Amresha Soomro is an accomplished IT Project Manager and Cheif Data Officer, leading high-performance teams to sustain business goals"
+description: "Fostering teamwork in a remote environment can be challenging, but several effective strategies can help create a collaborative atmosphere"
 date: "2025-02-10"
 banner:
   src: "../../images/remotework.jpg"
@@ -46,9 +46,11 @@ keywords:
 }
 ```
 
-Inline code: `print()`
+`print()`
 
 Fostering teamwork in a remote environment can be challenging, but several effective strategies can help create a collaborative atmosphere:
+
+![This is the alt tag.](../../images/remotework.jpg "Remote Work Challenges [caption](https://amreshasoomro.netlify.app).")
 
 1. **Clear Communication**: Use tools like Slack or Microsoft Teams for open channels of communication. Regular check-ins via video calls can help maintain personal connections.
 
@@ -68,8 +70,6 @@ Fostering teamwork in a remote environment can be challenging, but several effec
 
 By implementing these strategies, teams can thrive even in a remote setting, leading to successful collaboration and project outcomes.
 
-
-![This is the alt tag.](../../images/kelly-sikkema-Hl3LUdyKRic-unsplash.jpg "This is a markdown [caption](https://konstantin.digital).")
 
 Remote work significantly impacts team dynamics, leading to various psychological effects:
 

@@ -3,7 +3,7 @@ title: "Essential Data Analytics and Data Visualisation Tools"
 description: "In today’s data-driven world, the ability to efficiently analyze and visualize data is paramount for industries across the board"
 date: "2025-02-8"
 banner:
-  src: "../../images/kelly-sikkema-Hl3LUdyKRic-unsplash.jpg"
+  src: "../../images/data-analytics.jpg"
   alt: "Data Analytics and Visualisation"
 categories:
   - "Tips"
@@ -15,13 +15,13 @@ keywords:
   - "Tips"
 ---
 
-Inline code: `print()`
 
 ## Navigating the Landscape of Data Analytics and Visualization Tools
 
 In today’s data-driven world, the ability to efficiently analyze and visualize data is paramount for industries across the board. For learners striving to master these skills, it’s crucial to familiarize yourself with a variety of tools available, ranging from premium software options to free resources. This blog post aims to guide you through some of the most popular data analytics and visualization tools, helping you make informed decisions based on your learning needs and career aspirations.
 
-![Data Analytics and Data Visualization.](../../images/data-analytics.jpg)
+
+![This is the alt tag.](../../images/blockchain.jpg "Essential Tools [caption](https://amreshasoomro.netlify.app).")
 
 ### Premium Tools
 
