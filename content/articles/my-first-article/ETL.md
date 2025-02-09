@@ -3,7 +3,7 @@ title: "Understanding ETL: Extract, Transform, Load"
 description: "ETL (Extract, Transform, Load) is a fundamental process in data engineering that enables organizations to gather data from multiple sources, refine and store it in a centralized system for analysis."
 date: "2025-02-8"
 banner:
-  src: "../../images/data-analytics.jpg"
+  src: "../../images/data-arch.jpg"
   alt: "Understanding ETL: Extract, Transform, Load"
 categories:
   - "Tips"
@@ -19,9 +19,6 @@ keywords:
 ## Understanding ETL: Extract, Transform, Load
 
 ETL (Extract, Transform, Load) is a fundamental process in data engineering that enables organizations to gather data from multiple sources, refine it into a useful format, and store it in a centralized system for analysis. This process is essential for businesses that rely on data-driven decision-making.
-
-
-![This is the alt tag.](../../images/data-arch.jpg "ETL: Extract, Transform, Load [caption](https://amreshasoomro.netlify.app).")
 
 
 **The Three Stages of ETL** ✨
@@ -55,6 +52,10 @@ Efficient Data Integration: Enables seamless merging of data from multiple sourc
 Enhanced Decision-Making: Provides structured and actionable data for business intelligence and analytics.
 
 Scalability: Modern ETL tools support large-scale data processing and real-time analytics.
+
+
+![This is the alt tag.](../../images/clement-h-95YRwf6CNw8-unsplash.jpg "ETL: Extract, Transform, Load (https://amreshasoomro.netlify.app).")
+
 
 **Popular ETL Tools** 🛠️
 

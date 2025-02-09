@@ -15,38 +15,6 @@ keywords:
   - "Data Mining"
 ---
 
-## Code block test
-
-```css
-.AClass .Subtitle {
-  margin: -0.5rem 0 0 0;
-  font-weight: 700;
-  font-size: 1.25rem;
-  line-height: 1.5rem;
-}
-
-.AnotherClass p {
-  font-size: 1.125rem;
-  margin-bottom: 2rem;
-}
-
-.AThirdClass {
-  display: flex;
-  justify-content: flex-start;
-  align-items: center;
-}
-
-@media (max-width: 768px) {
-  .AClass {
-    flex-direction: column;
-  }
-  .AnotherClass {
-    display: block;
-  }
-}
-```
-
-Inline code: `print()`
 
 ## Introduction
 
@@ -105,15 +73,40 @@ Continuously track pipeline performance using logging and alerting mechanisms.
 5. Ensure Security Measures 🔒 
 Encrypt sensitive data and control access with authentication and authorization mechanisms. 
 
+## Code block test
 
-![This is the alt tag.](../../images/kelly-sikkema-Hl3LUdyKRic-unsplash.jpg "This is a markdown [caption](https://konstantin.digital).")
+```css
+.AClass .Subtitle {
+  margin: -0.5rem 0 0 0;
+  font-weight: 700;
+  font-size: 1.25rem;
+  line-height: 1.5rem;
+}
+
+.AnotherClass p {
+  font-size: 1.125rem;
+  margin-bottom: 2rem;
+}
+
+.AThirdClass {
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+}
+
+@media (max-width: 768px) {
+  .AClass {
+    flex-direction: column;
+  }
+  .AnotherClass {
+    display: block;
+  }
+}
+```
+
+`print()`
+
 
 ### Conclusion 🎯
 
 Automated data pipelines revolutionize decision-making by ensuring high-quality, real-time data availability. Organizations that embrace automation gain a competitive advantage by leveraging accurate insights for strategic planning. By adopting best practices and leveraging cutting-edge tools, data professionals can build resilient, scalable, and efficient data pipelines that drive success. 
-
-
-
-
-
-![This is the alt tag.](../../images/charles-deluvio-DgoyKNgPiFQ-unsplash.jpg)
