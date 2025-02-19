@@ -2,23 +2,23 @@
   "projects": [
     {
       "visible": true,
-      "category": "🕹️ EASY AND QUICK SETUP",
-      "title": "Add content and deploy!",
-      "description": "Get up and running within minutes. Just install the starter, add your content, deploy it, and there you go! This starter works seamlessly with hosts like Netlify. Photo by Clément H on Unsplash.",
-      "tags": ["Content Integration", "Ready-2-Deploy"],
+      "category": "🕹️ DATA ANALYTICS PROJECT",
+      "title": "Sales Key Insights Using Power BI",
+      "description": "My case study is based on a computer hardware company that is addressing issues in an evolving sector.   The sales director decides to invest in a data analysis project and wants to construct a Power BI dashboard that would provide him with real-time sales insights.",
+      "tags": ["Data Analysis", "Power BI Dashboard"],
       "image": {
-        "src": "../../images/clement-h-95YRwf6CNw8-unsplash.jpg",
-        "alt": "Quick Setup",
-        "linkTo": "https://github.com/konstantinmuenster/gatsby-starter-portfolio-minimal-theme"
+        "src": "../../images/sales-insights.png",
+        "alt": "Sales Key Insights",
+        "linkTo": "https://github.com/emmadigital/data-analytics-sales-key-Insights"
       },
       "links": [
         {
           "type": "github",
-          "url": "https://github.com/konstantinmuenster/gatsby-starter-portfolio-minimal-theme"
+          "url": "https://github.com/emmadigital/data-analytics-sales-key-Insights"
         },
         {
           "type": "external",
-          "url": "https://www.gatsbyjs.org/docs/mdx/writing-pages/"
+          "url": "https://l1nq.com/r001I"
         }
       ]
     },

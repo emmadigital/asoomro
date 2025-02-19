@@ -5,7 +5,6 @@ date: "2025-02-10"
 banner:
   src: "../../images/remotework.jpg"
   alt: "Remote Work Essentials"
-  caption: 'Photo by <u><a href="https://unsplash.com/photos/Nc5Q_CEcY44">Florian Olivo</a></u>'
 categories:
   - "Tips"
 keywords:

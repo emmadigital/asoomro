@@ -3,10 +3,9 @@ title: "How Automated Data Pipelines Can Revolutionize Decision-Making"
 description: "In today's data-driven landscape, organizations generate vast amounts of data from multiple sources. Extracting meaningful insights from this data is critical for making informed decisions."
 date: "2025-02-10"
 banner:
-  src: "../../images/kelly-sikkema-Hl3LUdyKRic-unsplash.jpg"
+  src: "../../images/data-arch.jpg"
   alt: "Automated Data Pipelines"
 categories:
-  - "Tips"
   - "Tutorial"
 keywords:
   - "Data Pipelines"
