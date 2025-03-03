@@ -9,12 +9,12 @@
       "image": {
         "src": "../../images/sales-insights.png",
         "alt": "Sales Key Insights",
-        "linkTo": "https://github.com/emmadigital"
+        "linkTo": "/sales-insights"
       },
       "links": [
         {
           "type": "github",
-          "url": "https://github.com/emmadigital"
+          "url": "https://github.com/emmadigital/DataAnalyticsSalesKeyInsights"
         },
         {
           "type": "external",
