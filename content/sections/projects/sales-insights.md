@@ -1,4 +1,6 @@
 ---
+sectionId: sales-insights
+
 title: "Sales Key Insights Using Power BI"
 description: "My case study is based on a computer hardware company that is addressing issues in an evolving sector.   The sales director decides to invest in a data analysis project and wants to construct a Power BI dashboard that would provide him with real-time sales insights."
 date: "2025-03-3"

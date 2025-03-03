@@ -9,7 +9,7 @@
       "image": {
         "src": "../../images/sales-insights.png",
         "alt": "Sales Key Insights",
-        "linkTo": "https://amreshasoomro.netlify.app/projects/sales-insights"
+        "linkTo": "/sales-insights"
       },
       "links": [
         {
