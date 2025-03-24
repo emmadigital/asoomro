@@ -1,4 +1,5 @@
 ---
+path: "/projects/sales"
 sectionId: sales
 
 title: "Sales Key Insights Using Power BI"
