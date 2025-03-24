@@ -9,7 +9,7 @@
       "image": {
         "src": "../../images/sales-insights.png",
         "alt": "Sales Key Insights",
-        "linkTo": "/features"
+        "linkTo": "/sales"
       },
       "links": [
         {
@@ -24,18 +24,18 @@
     },
     {
       "visible": true,
-      "category": "🧰 EXTENDABLE LAYOUT",
-      "title": "Add more sections!",
-      "description": "The starter includes predefined sections as well as a template for new, custom sections. Moreover, you can add new projects to this section without additional coding. Photo by Kelly Sikkema on Unsplash.",
-      "tags": ["Custom Sections", "Easy-2-Use"],
+      "category": "🧰 DATA ANALYTICS PROJECT TABLEAU",
+      "title": "Sales Key Insights Using Tableau",
+      "description": "My case study is based on a computer hardware company that is addressing issues in an evolving sector.   The sales director decides to invest in a data analysis project and wants to construct a Tableau dashboard that would provide him with real-time sales insights.",
+      "tags": ["Data Analysis", "Tableau Dashboard"],
       "image": {
-        "src": "../../images/kelly-sikkema-Hl3LUdyKRic-unsplash.jpg",
-        "alt": "Extendable Layout"
+        "src": "../../images/tableau-sales-insights.png",
+        "alt": "Tableau Sales Key Insights"
       },
       "links": [
         {
           "type": "github",
-          "url": "https://github.com/konstantinmuenster/gatsby-starter-portfolio-minimal-theme"
+          "url": "https://github.com/emmadigital/DataAnalyticsSalesKeyInsights"
         }
       ]
     }
@@ -43,6 +43,6 @@
   "button": {
     "visible": true,
     "label": "Visit on Github",
-    "url": "https://github.com/konstantinmuenster/gatsby-theme-portfolio-minimal"
+    "url": "https://github.com/emmadigital"
   }
 }
