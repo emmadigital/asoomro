@@ -31,8 +31,8 @@
       },
       "footer": [
         { "label": "Privacy", "url": "/privacy" },
-        { "label": "Imprint", "url": "/imprint" }
-        { "label": "sales", "url": "/sales" }
+        { "label": "Imprint", "url": "/imprint" },
+        { "label": "Sales", "url": "/sales" }
       ]
     },
     "featureToggles": {
