@@ -1,4 +1,4 @@
----
+
 <section data-markdown>
   <textarea data-template>
     ## Slide 1
@@ -18,4 +18,3 @@
       Markdown content
   </script>
 </section>
----

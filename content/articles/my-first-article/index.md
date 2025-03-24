@@ -72,39 +72,6 @@ Continuously track pipeline performance using logging and alerting mechanisms.
 5. Ensure Security Measures 🔒 
 Encrypt sensitive data and control access with authentication and authorization mechanisms. 
 
-## Code block test
-
-```css
-.AClass .Subtitle {
-  margin: -0.5rem 0 0 0;
-  font-weight: 700;
-  font-size: 1.25rem;
-  line-height: 1.5rem;
-}
-
-.AnotherClass p {
-  font-size: 1.125rem;
-  margin-bottom: 2rem;
-}
-
-.AThirdClass {
-  display: flex;
-  justify-content: flex-start;
-  align-items: center;
-}
-
-@media (max-width: 768px) {
-  .AClass {
-    flex-direction: column;
-  }
-  .AnotherClass {
-    display: block;
-  }
-}
-```
-
-`print()`
-
 
 ### Conclusion 🎯
 
