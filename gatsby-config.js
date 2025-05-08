@@ -18,6 +18,10 @@ module.exports = {
           path: "/blog", // Defines the slug for the blog listing page
           usePathPrefixForArticles: false, // Default true (i.e. path will be /blog/first-article)
         },
+        projectSettings: {
+          path: "/projects", // Defines the slug for the projects listing page
+          usePathPrefixForProjects: false, // Default true (i.e. path will be /blog/first-article)
+        },
         // googleAnalytics: {
         //     trackingId: "UA-XXXXXX-X",
         //     anonymize: true, // Default true
