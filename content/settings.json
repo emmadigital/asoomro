@@ -22,7 +22,7 @@
         { "label": "About", "url": "/#about" },
         { "label": "Blog", "url": "/blog" },
         { "label": "Projects", "url": "/#sales" },
-        { "label": "Github", "url": "/#github" }
+        { "label": "Github", "url": "https://github.com/emmadigital" }
       ],
       "ctaButton": {
         "openNewTab": true,
