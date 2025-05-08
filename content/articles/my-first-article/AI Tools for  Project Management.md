@@ -1,7 +1,7 @@
 ---
 title: "AI Tools for Project Management: Revolutionizing the Way Teams Work"
 description: "Project management in the IT sector is becoming increasingly complex, requiring better collaboration, automation, and data-driven decision-making."
-date: "2025-05-09"
+date: "2025-05-08"
 banner:
   src: "../../images/role-of-ai-in-project-management.jpg"
   alt: "AI Tools for Project Management"
@@ -75,8 +75,9 @@ Tools:
 
 **Top AI-Powered Project Management Tools** ⚡
 
-| Tool | Key AI Features	| Best For  |
-| : ------------- |:-------------:| :-----|
+          Tool	Key AI Features	Best For
+| Tool        | Key AI Features	| Best For  |
+| :------------- |:-------------:| :-----:|
 | ClickUp AI |	Predictive task management, automated docs | Agile teams |
 | Monday.com AI	| Smart workload balancing auto-reporting | Remote teams |
 | Asana (AI features)	| Automated task prioritization | Enterprise PM |
