@@ -75,7 +75,7 @@ Tools:
 
 **Top AI-Powered Project Management Tools** ⚡
 
-          Tool	Key AI Features	Best For
+          Tool Key AI Features Best For 2025
 | Tool        | Key AI Features	| Best For  |
 | :------------- |:-------------:| :-----:|
 | ClickUp AI |	Predictive task management, automated docs | Agile teams |
