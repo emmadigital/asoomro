@@ -36,7 +36,11 @@
         }
       }, 
       {
-        "label": "Consistently delivered on time & under budget"  
+        "label": "Consistently delivered on time & under budget",
+        "image": {
+          "src": "../../images/idea.png",
+          "alt": ""
+        }  
       }, 
       {
         "label": "Team Leadership",
