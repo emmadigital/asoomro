@@ -10,6 +10,8 @@
   },
   "title": {
     "text": "I'm a Senior IT Project Manager | FinTech & Digital Banking Transformation",
+  },
+  "titleFonts": {
     "fontSize": "18px",
     "marginBottom": "10px"
   },
