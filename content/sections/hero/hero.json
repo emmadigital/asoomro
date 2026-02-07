@@ -11,14 +11,13 @@
   "title": {
     "text": "I'm a Senior IT Project Manager | FinTech & Digital Banking Transformation",
     "fontSize": "18px",
-    "marginBottom": "10px"
+    "marginBottom": "20px"
   },
-  
   "subtitle": {
     "prefix": "Delivering large-scale programs across financial crime, digital payments, and enterprise analytics — with a focus on",
     "highlight": "time, budget and with measurable impact",
     "suffix": ".",
-    "fontSize": "14px"
+    "fontSize": "12px"
   },
    "description": "You can reach me at:",
   "socialProfiles": {
