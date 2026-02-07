@@ -15,16 +15,16 @@
       }
     },
     {
-      "label": "Cross-Border Team Leadership",
+      "label": "Data Analytics & BI",
       "image": {
-        "src": "../../images/networking.png",
+        "src": "../../images/analysis.png",
         "alt": ""
       }
     },
     {
-      "label": "Data Analytics & BI",
+      "label": "Cross-Border Team Leadership",
       "image": {
-        "src": "../../images/analysis.png",
+        "src": "../../images/networking.png",
         "alt": ""
       }
     },
@@ -41,7 +41,7 @@
         "src": "../../images/idea.png",
         "alt": ""
       }
-    },
+    }, 
     {
       "label": "Team Leadership",
       "image": {
@@ -53,64 +53,8 @@
   "button": {
     "visible": true,
     "label": "+ Load More",
-    "initiallyShownInterests": 5
-  },
-
-  "acheivements": [
-    {
-      "label": "Scrum and Agile Delivery",
-      "image": {
-        "src": "../../images/scrum.png",
-        "alt": ""
-      }
-    },
-    {
-      "label": "FinTech Transformation",
-      "image": {
-        "src": "../../images/clock.png",
-        "alt": ""
-      }
-    },
-    {
-      "label": "Vendor Management",
-      "image": {
-        "src": "../../images/idea.png",
-        "alt": ""
-      }
-    },
-    {
-      "label": "Data Analytics & BI",
-      "image": {
-        "src": "../../images/analysis.png",
-        "alt": ""
-      }
-    },
-    {
-      "label": "Cross-Border Team Leadership",
-      "image": {
-        "src": "../../images/networking.png",
-        "alt": ""
-      }
-    },
-    {
-      "label": "Stakeholder Management",
-      "image": {
-        "src": "../../images/persuasion.png",
-        "alt": ""
-      }
-    }, 
-    {
-      "label": "Team Leadership",
-      "image": {
-        "src": "../../images/team-work.png",
-        "alt": ""
-      }
-    }
-  ],
-  "button2": {
-    "visible": true,
-    "label": "+ Load More",
     "initiallyShownInterests": 3
   }
+  
 }
 

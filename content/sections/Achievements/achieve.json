@@ -1,0 +1,61 @@
+{
+    "acheive": [
+      {
+        "label": "Scrum and Agile Delivery",
+        "image": {
+          "src": "../../images/scrum.png",
+          "alt": ""
+        }
+      },
+      {
+        "label": "FinTech Transformation",
+        "image": {
+          "src": "../../images/clock.png",
+          "alt": ""
+        }
+      },
+      {
+        "label": "Data Analytics & BI",
+        "image": {
+          "src": "../../images/analysis.png",
+          "alt": ""
+        }
+      },
+      {
+        "label": "Cross-Border Team Leadership",
+        "image": {
+          "src": "../../images/networking.png",
+          "alt": ""
+        }
+      },
+      {
+        "label": "Stakeholder Management",
+        "image": {
+          "src": "../../images/persuasion.png",
+          "alt": ""
+        }
+      }, 
+      {
+        "label": "Vendor Management",
+        "image": {
+          "src": "../../images/idea.png",
+          "alt": ""
+        }
+      }, 
+      {
+        "label": "Team Leadership",
+        "image": {
+          "src": "../../images/team-work.png",
+          "alt": ""
+        }
+      }
+    ],
+    "button": {
+      "visible": true,
+      "label": "+ Load More",
+      "initiallyShownInterests": 4
+    }
+    
+  }
+  
+  
