@@ -3,11 +3,15 @@ imageSrc: "../../images/asoomro2.PNG"
 imageAlt: "WHO AM I?"
 ---
 
-I'm  Amresha Soomro. An accomplished Senior IT Project Manager offering 10 years of experience in Software Project Management. Successful when leading high-performing teams to sustain product vision, roadmap and business goals. Exceptional technical expertise, leadership and talent for driving stellar, on-target results.
+I’m a Senior IT Project Manager with 10+ years of experience leading complex technology programs in FinTech, digital banking, and regulated environments. I specialize in Agile delivery, cross-border team leadership, and turning strategic priorities into measurable outcomes.
+
+I’ve successfully delivered enterprise platforms that improved fraud detection, automated reporting, and enhanced operational efficiency. I partner with senior stakeholders, global vendors, and delivery teams to drive execution excellence.
+
+I’m open to senior delivery leadership roles — where technology, data, and transformation intersect.
 
 
-Outside work, I am an avid traveller and an adventure enthusiast. I have travelled 5 cities in Turkey and 5 Countries of European Union. From what I have experienced, I believe in being accepting and open to new experiences, as each carries a uniqueness that one can truly embrace.
+Outside of work, I’m an avid traveler and adventure enthusiast, having explored multiple cities across Turkey and the UAE, as well as several countries within the European Union. These experiences have strengthened my appreciation for diverse cultures, adaptability, and openness to new perspectives—qualities I bring into my professional work when leading cross-border teams and navigating complex environments.
 
-Last but not least, here are some of my pictures!
+A glimpse beyond work: moments from my travels and experiences that reflect curiosity, adaptability, and a global mindset.
 
 <img src="../../images/PhotoCollage.jpeg" height="400px" scale ="50%" alt="My cool pictures"/>
