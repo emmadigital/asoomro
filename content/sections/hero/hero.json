@@ -8,14 +8,18 @@
     "src": "../../images/waving-hand.png",
     "alt": "Waving Hand Emoji"
   },
-  "title": "I'm a Senior IT Project Manager | FinTech & Digital Banking Transformation",
+  "title": {
+    "text": "I'm a Senior IT Project Manager | FinTech & Digital Banking Transformation",
+    "fontSize": "18px"
+  },
+  
   "subtitle": {
     "prefix": "Delivering large-scale programs across financial crime, digital payments, and enterprise analytics — with a focus on",
     "highlight": "time, budget and with measurable impact",
-    "suffix": "."
+    "suffix": ".",
+    "fontSize": "14px"
   },
-  "fontSize": "18px",
-  "description": "You can reach me at",
+   "description": "You can reach me at:",
   "socialProfiles": {
     "from": ["LinkedIn", "Github", "Mail"],
     "showIcons": true
