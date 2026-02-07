@@ -14,6 +14,7 @@
     "highlight": "time, budget and with measurable impact",
     "suffix": "."
   },
+  "fontSize": "18px",
   "description": "You can reach me at",
   "socialProfiles": {
     "from": ["LinkedIn", "Github", "Mail"],
