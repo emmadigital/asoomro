@@ -8,12 +8,11 @@
     "src": "../../images/waving-hand.png",
     "alt": "Waving Hand Emoji"
   },
-  "title": {
-    "text": "I'm a Senior IT Project Manager | FinTech & Digital Banking Transformation"
-  },
+  "title":  "I'm a Senior IT Project Manager | FinTech & Digital Banking Transformation",
+
   "subtitle": {
     "prefix": "leading high-performance teams to deliver complex projects — with a focus ",
-    "highlight": " ontime, within budget and with measurable impact",
+    "highlight": "ontime, within budget and with measurable impact",
     "suffix": "."
   },
    "description": "You can reach me at:",
