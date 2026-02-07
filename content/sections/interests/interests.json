@@ -1,35 +1,35 @@
 {
   "interests": [
     {
-      "label": "Scrum and Agile",
+      "label": "Scrum and Agile Delivery",
       "image": {
         "src": "../../images/scrum.png",
         "alt": ""
       }
     },
     {
-      "label": "Time Management",
+      "label": "Cross-Border Team Leadership",
       "image": {
         "src": "../../images/clock.png",
         "alt": ""
       }
     },
     {
-      "label": "Problem-solving",
+      "label": "Vendor & Stakeholder Management",
       "image": {
         "src": "../../images/idea.png",
         "alt": ""
       }
     },
     {
-      "label": "Data Analytics Tools",
+      "label": "Data Analytics & BI",
       "image": {
         "src": "../../images/analysis.png",
         "alt": ""
       }
     },
     {
-      "label": "Communication",
+      "label": "FinTech Transformation",
       "image": {
         "src": "../../images/networking.png",
         "alt": ""
