@@ -5,7 +5,6 @@ import {
   ContactSection,
   HeroSection,
   InterestsSection,
-  AchievementsSection,
   Page,
   ProjectsSection,
   Seo,
@@ -20,7 +19,6 @@ export default function IndexPage() {
         <HeroSection sectionId="hero" />
         <AboutSection sectionId="about" heading="About Me" />
         <InterestsSection sectionId="details" heading="Skill Set" />
-        <AchievementsSection sectionId="achieve" heading="Achievements" />
         <ProjectsSection sectionId="sales" heading="My Portfolio" />
         <ArticlesSection sectionId="articles" heading="Latest Articles" sources={['Blog']} />
         <ContactSection sectionId="github" heading="Issues?" />
