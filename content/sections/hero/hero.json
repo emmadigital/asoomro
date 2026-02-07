@@ -10,10 +10,11 @@
   },
   "title": {
     "text": "I'm a Senior IT Project Manager | FinTech & Digital Banking Transformation",
-    "fontSize": "18px"
+    "fontSize": "18px",
+    "marginBottom": "10px"
   },
   "subtitle": {
-    "prefix": "leading high-performance teams to deliver complex projects — with a focus",
+    "prefix": "leading high-performance teams to deliver complex projects — with a focus ",
     "highlight": "ontime, within budget and with measurable impact",
     "suffix": ".",
     "fontSize": "12px"
