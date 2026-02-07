@@ -53,7 +53,7 @@
   "button": {
     "visible": true,
     "label": "+ Load More",
-    "initiallyShownInterests": 3
+    "initiallyShownInterests": 4
   }
   
 }
