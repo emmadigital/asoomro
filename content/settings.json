@@ -16,11 +16,10 @@
     }
   },
   "siteConfiguration": {
-    "logo": { "text": "Amresha Soomro Profile" },
+    "logo": { "text": "Amresha Profile" },
     "navigation": {
       "header": [
         { "label": "About", "url": "/#about" },
-        { "label": "Achievements", "url": "/#acheive" },
         { "label": "Blog", "url": "/blog" },
         { "label": "Projects", "url": "/#sales" },
         { "label": "Github", "url": "https://github.com/emmadigital", "target": "_blank" },
