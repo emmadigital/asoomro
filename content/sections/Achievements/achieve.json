@@ -1,46 +1,42 @@
 {
     "acheive": [
       {
-        "label": "Scrum and Agile Delivery",
+        "label": "⚡ 35% reduction in fraud losses",
         "image": {
           "src": "../../images/scrum.png",
           "alt": ""
         }
       },
       {
-        "label": "FinTech Transformation",
+        "label": "⏱ 75% faster regulatory reporting",
         "image": {
           "src": "../../images/clock.png",
           "alt": ""
         }
       },
       {
-        "label": "Data Analytics & BI",
+        "label": "📊 25% data quality improvement",
         "image": {
           "src": "../../images/analysis.png",
           "alt": ""
         }
       },
       {
-        "label": "Cross-Border Team Leadership",
+        "label": "🏆 Zero critical defects in delivery",
         "image": {
           "src": "../../images/networking.png",
           "alt": ""
         }
       },
       {
-        "label": "Stakeholder Management",
+        "label": "👥 Led teams of 35+ engineers",
         "image": {
           "src": "../../images/persuasion.png",
           "alt": ""
         }
       }, 
       {
-        "label": "Vendor Management",
-        "image": {
-          "src": "../../images/idea.png",
-          "alt": ""
-        }
+        "label": "📈 Consistently delivered on time & under budget"  
       }, 
       {
         "label": "Team Leadership",
