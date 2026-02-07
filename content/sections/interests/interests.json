@@ -8,14 +8,14 @@
       }
     },
     {
-      "label": "Cross-Border Team Leadership",
+      "label": "FinTech Transformation",
       "image": {
         "src": "../../images/clock.png",
         "alt": ""
       }
     },
     {
-      "label": "Vendor & Stakeholder Management",
+      "label": "Vendor Management",
       "image": {
         "src": "../../images/idea.png",
         "alt": ""
@@ -29,28 +29,21 @@
       }
     },
     {
-      "label": "FinTech Transformation",
+      "label": "Cross-Border Team Leadership",
       "image": {
         "src": "../../images/networking.png",
         "alt": ""
       }
     },
     {
-      "label": "Leadership",
+      "label": "Stakeholder Management",
       "image": {
         "src": "../../images/persuasion.png",
         "alt": ""
       }
-    },
+    }, 
     {
-      "label": "Modern Tech-Stack",
-      "image": {
-        "src": "../../images/technology.png",
-        "alt": ""
-      }
-    },
-    {
-      "label": "Team Building",
+      "label": "Team Leadership",
       "image": {
         "src": "../../images/team-work.png",
         "alt": ""
