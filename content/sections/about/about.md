@@ -10,7 +10,7 @@ I’ve successfully delivered enterprise platforms that improved fraud detection
 I’m open to senior delivery leadership roles — where technology, data, and transformation intersect.
 
 
-Outside of work, I’m an avid traveler and adventure enthusiast, having explored multiple cities across Turkey and the UAE, as well as several countries within the European Union. These experiences have strengthened my appreciation for diverse cultures, adaptability, and openness to new perspectives.
+Outside of work, I’m an avid traveler and adventure enthusiast, having explored multiple cities across Turkey, UAE, and the European Union countries.
 
 A glimpse beyond work: moments from my travel experiences.
 
