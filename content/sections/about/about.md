@@ -1,5 +1,5 @@
 ---
-imageSrc: "../../images/asoomro2.PNG"
+imageSrc: "../../images/ProfilePhoto.png"
 imageAlt: "WHO AM I?"
 ---
 
