@@ -6,7 +6,6 @@ banner:
   src: "../../images/data-analytics.jpg"
   alt: "Data Analytics and Visualisation"
 categories:
-  - "Tips"
   - "Tools"
 keywords:
   - "Data Analytics"

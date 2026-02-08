@@ -6,7 +6,6 @@ banner:
   src: "../../images/data-arch.jpg"
   alt: "Understanding ETL: Extract, Transform, Load"
 categories:
-  - "Tips"
   - "Tutorial"
 keywords:
   - "Data Analysis"
