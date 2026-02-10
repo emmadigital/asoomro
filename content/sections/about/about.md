@@ -11,7 +11,3 @@ I’m open to senior delivery leadership roles — where technology, data, and t
 
 
 Outside of work, I’m an avid traveler and adventure enthusiast, having explored multiple cities across Turkey, UAE, and the European Union countries.
-
-A glimpse beyond work: moments from my travel experiences.
-
-<img src="../../images/PhotoCollage.jpeg" height="400px" scale ="50%" alt="My cool pictures"/>
